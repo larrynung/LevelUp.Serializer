@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelUp.Serializer.JsonNet"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelUp.Serializer.Jil", "LevelUp.Serializer.Jil\LevelUp.Serializer.Jil.csproj", "{33BBFF7B-0698-495A-94F0-41C5D8E37D7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelUp.Serializer.ProtobufNet", "LevelUp.Serializer.Protobuf-net\LevelUp.Serializer.ProtobufNet.csproj", "{0F767002-BE50-4D12-9231-890A3EF0FB0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelUp.Serializer.ProtobufNet", "LevelUp.Serializer.ProtobufNet\LevelUp.Serializer.ProtobufNet.csproj", "{0F767002-BE50-4D12-9231-890A3EF0FB0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
