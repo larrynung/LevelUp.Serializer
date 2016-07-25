@@ -6,15 +6,14 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-
 [assembly: CLSCompliant(true)]
 [assembly: SuppressIldasm]
 [assembly: AssemblyTitle("LevelUp.Serializer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("LevelUp.Serializer")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("LarryNung")]
 [assembly: AssemblyProduct("LevelUp.Serializer")]
-[assembly: AssemblyCopyright("Copyright ©  2012")]
+[assembly: AssemblyCopyright("Copyright © LarryNung 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
