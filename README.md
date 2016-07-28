@@ -82,6 +82,7 @@ namespace ConsoleApplication46
 
 Link
 ----
+* [NuGet Gallery | LevelUp.Serializer](https://www.nuget.org/packages/LevelUp.Serializer/)
 * [larrynung/LevelUp.Serializer.JsonNet](https://github.com/larrynung/LevelUp.Serializer.JsonNet)
 * [larrynung/LevelUp.Serializer.ProtobufNet](https://github.com/larrynung/LevelUp.Serializer.ProtobufNet)
 * [larrynung/LevelUp.Serializer.Jil](https://github.com/larrynung/LevelUp.Serializer.Jil)
